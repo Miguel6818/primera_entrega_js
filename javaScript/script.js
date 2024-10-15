@@ -1,6 +1,6 @@
 
 //primera fución será saludar al profe//
-let profeOtutor = prompt("Hola esta es mi primrea entrega, quien está revisando la tarea?")
+let profeOtutor = prompt("Hola esta es mi primera entrega, quien está revisando la tarea?")
 
 const saludaProfe = nombre=> console.log("hola, espero que estes bien " + profeOtutor+ ", para esta entrega haré tres funciones matematicas")
 saludaProfe()
